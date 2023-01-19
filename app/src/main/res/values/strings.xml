@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="plus">Plus</string>
+    <string name="rest">Rest</string>
+    <string name="input1">Input 1</string>
+    <string name="input2">Input 2</string>
+    <string name="defaultValue">0</string>
+</resources>
